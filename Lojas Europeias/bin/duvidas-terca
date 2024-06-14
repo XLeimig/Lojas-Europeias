@@ -1,0 +1,7 @@
+como chamar o DAO dentro da classe vendedor, produto, etc? ok R: Não indicado pela duplicidade de responsabilidades.
+
+vendedor deve criar um cadastro de cliente, a função deve de cadastrar cliente deve estar na classe cliente ou na classe vendedor? ok R: Classe cliente
+
+organização dos packages. ok
+
+Criar uma função pra listar todas as pessoas da tabela pessoas na classe pessoa e criar um override para vendedor e gerente para essa função.
